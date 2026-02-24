@@ -1,4 +1,4 @@
-# XMail — Federated Encrypted Mail System
+# XMail - Federated Encrypted Mail System
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0.1-blue?style=flat-square" alt="Version">
